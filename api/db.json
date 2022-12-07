@@ -17,7 +17,7 @@
       "imageUrl": "/assets/placeimg_500_300_arch12.jpg",
       "contractTypeId": 6,
       "contractSignedOn": "2016-06-26T18:24:01.706Z",
-      "budget": 29729,
+      "budget": 48498,
       "isActive": true
     },
     {
@@ -378,7 +378,7 @@
       "contractTypeId": 1,
       "contractSignedOn": "2017-03-12T21:37:42.536Z",
       "budget": 32277,
-      "isActive": false
+      "isActive": true
     },
     {
       "id": 39,
@@ -538,7 +538,7 @@
       "contractTypeId": 2,
       "contractSignedOn": "2015-01-21T07:03:49.836Z",
       "budget": 74221,
-      "isActive": false
+      "isActive": true
     },
     {
       "id": 55,
@@ -808,7 +808,7 @@
       "contractTypeId": 5,
       "contractSignedOn": "2012-08-09T13:45:53.932Z",
       "budget": 75030,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 82,
